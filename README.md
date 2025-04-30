@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->🌱 I am learning a little bit more about GitHub. I know the tool for its functionality, but I have never worked with it.
 For future purpose it can be handy to know how to work with it.
+
 💬 I am working with AI, especially with RPA using toolng UIPath and Microsoft PowerPlatform.
 I am investigating ideas of bussiness and helping them to define functionalities that suits RPA.
 From there I am guiding developers to build the solution and also documenting it in a good way. This is not the favorite part of developers ;-) .
